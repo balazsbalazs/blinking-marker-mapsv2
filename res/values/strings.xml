@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlinkingMarker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="move_marker_button">Move</string>
+    <string name="sync_move_title">Sync move</string>
+    <string name="fps">Fps:</string>
+    <string name="duration">Duration:</string>
+
+</resources>
